@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]) {
         
         
         Calculter* maker=[Calculter new];
-        int  a =maker.add(11).add(2).muilt(3).divide(3).result;
+        int  a =maker.add(12).add(2).muilt(3).divide(3).result;
         
         NSLog(@"%d",a);
     }
